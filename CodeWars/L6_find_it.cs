@@ -1,8 +1,5 @@
 namespace CodeWars;
 
-using System;
-using System.Collections.Generic;
-
 class L6_find_it
 {
     public static int find_it(int[] seq) 

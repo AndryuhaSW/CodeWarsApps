@@ -1,7 +1,5 @@
 namespace CodeWars;
 
-using System;
-
 public class L6_CountBits
 {
     /*public static void Main(string[] args)

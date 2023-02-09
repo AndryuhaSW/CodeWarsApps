@@ -4,9 +4,7 @@
     <projectFile>CodeWars/CodeWars.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef701ce6-99ef-404a-bb1e-f2ec18be9b78" name="Changes" comment="add &quot;Solution&quot;">
-      <change beforePath="$PROJECT_DIR$/CodeWars/L6_Solution.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/L6_Solution.cs" afterDir="false" />
-    </list>
+    <list default="true" id="ef701ce6-99ef-404a-bb1e-f2ec18be9b78" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +22,9 @@
         <option name="url" value="https://github.com/AndryuhaSW/CodeWarsApps.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://E:/GitHub/Apps/CodeWars/CodeWars/L6_Solution.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -82,7 +83,7 @@
       <workItem from="1675972228896" duration="1785000" />
       <workItem from="1675974052673" duration="672000" />
       <workItem from="1675977676803" duration="496000" />
-      <workItem from="1675978289005" duration="674000" />
+      <workItem from="1675978289005" duration="3377000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1675972467568</created>
@@ -203,7 +204,203 @@
       <option name="project" value="LOCAL" />
       <updated>1675978895067</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add &quot;Solution&quot;">
+      <created>1675979274155</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1675979274155</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add &quot;CreatePhoneNumber&quot;">
+      <created>1675979350023</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1675979350023</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add &quot;DontGiveMeFive&quot;">
+      <created>1675979530749</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1675979530749</updated>
+    </task>
+    <task id="LOCAL-00021" summary="add &quot;SequenceSum&quot;">
+      <created>1675979590103</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1675979590103</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add &quot;GrowingPlant&quot;">
+      <created>1675979793895</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1675979793895</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add &quot;CheckIfFlush&quot;">
+      <created>1675979879894</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1675979879894</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add &quot;declareWinner&quot;">
+      <created>1675980008637</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1675980008637</updated>
+    </task>
+    <task id="LOCAL-00025" summary="add &quot;Partlist&quot;">
+      <created>1675980113481</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1675980113481</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add &quot;IsAscOrder&quot;">
+      <created>1675980179136</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1675980179136</updated>
+    </task>
+    <task id="LOCAL-00027" summary="add &quot;ShadesOfGrey&quot;">
+      <created>1675980249531</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1675980249531</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add &quot;ModifyMultiply&quot;">
+      <created>1675980304140</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1675980304140</updated>
+    </task>
+    <task id="LOCAL-00029" summary="add &quot;Fib&quot;">
+      <created>1675980405278</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1675980405278</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add &quot;Encode_Decode&quot;">
+      <created>1675980463538</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1675980463538</updated>
+    </task>
+    <task id="LOCAL-00031" summary="add &quot;HasUniqueChars&quot;">
+      <created>1675980526753</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1675980526753</updated>
+    </task>
+    <task id="LOCAL-00032" summary="add &quot;Triangular&quot;">
+      <created>1675980560050</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1675980560050</updated>
+    </task>
+    <task id="LOCAL-00033" summary="add &quot;GetFizzBuzzArray&quot;">
+      <created>1675980636817</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1675980636817</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add &quot;GetPositions&quot;">
+      <created>1675980670419</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1675980670419</updated>
+    </task>
+    <task id="LOCAL-00035" summary="add &quot;Spoonerize&quot;">
+      <created>1675980738895</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1675980738895</updated>
+    </task>
+    <task id="LOCAL-00036" summary="add &quot;IsLeapYear&quot;">
+      <created>1675980825967</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1675980825967</updated>
+    </task>
+    <task id="LOCAL-00037" summary="add &quot;Cats&quot;">
+      <created>1675980958459</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1675980958459</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add &quot;NextPal&quot;">
+      <created>1675981000192</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1675981000192</updated>
+    </task>
+    <task id="LOCAL-00039" summary="add &quot;Solution&quot;">
+      <created>1675981434753</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1675981434753</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add &quot;DivisibleBy&quot;">
+      <created>1675981498906</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1675981498906</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add &quot;Between&quot;">
+      <created>1675981535943</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1675981535943</updated>
+    </task>
+    <task id="LOCAL-00042" summary="add &quot;ReverseWords&quot;">
+      <created>1675981586527</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1675981586527</updated>
+    </task>
+    <task id="LOCAL-00043" summary="add &quot;SquareOrSquareRoot&quot;">
+      <created>1675981618814</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1675981618814</updated>
+    </task>
+    <task id="LOCAL-00044" summary="add &quot;ExpressionsMatter&quot;">
+      <created>1675981653453</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1675981653453</updated>
+    </task>
+    <task id="LOCAL-00045" summary="add &quot;FixTheMeerkat&quot;">
+      <created>1675981699878</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1675981699878</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,22 +410,31 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="FirstCommit" />
-    <MESSAGE value="secobdCommit" />
-    <MESSAGE value="3commit" />
-    <MESSAGE value="delete old files" />
-    <MESSAGE value="added solution &quot;DuplicateCount&quot;" />
-    <MESSAGE value="add solution &quot;CountBits&quot;" />
-    <MESSAGE value="add &quot;find_it&quot;" />
-    <MESSAGE value="add &quot;SpinWords&quot;" />
-    <MESSAGE value="trash" />
-    <MESSAGE value="fix &quot;SpinWords&quot;" />
-    <MESSAGE value="add &quot;MonkeyCount&quot;" />
-    <MESSAGE value="add &quot;GetAverage&quot;" />
-    <MESSAGE value="add &quot;ExpandedForm&quot;" />
-    <MESSAGE value="add &quot;ToCamelCase&quot;" />
-    <MESSAGE value="add &quot;FindEvenIndex&quot;" />
+    <MESSAGE value="add &quot;SequenceSum&quot;" />
+    <MESSAGE value="add &quot;GrowingPlant&quot;" />
+    <MESSAGE value="add &quot;CheckIfFlush&quot;" />
+    <MESSAGE value="add &quot;declareWinner&quot;" />
+    <MESSAGE value="add &quot;Partlist&quot;" />
+    <MESSAGE value="add &quot;IsAscOrder&quot;" />
+    <MESSAGE value="add &quot;ShadesOfGrey&quot;" />
+    <MESSAGE value="add &quot;ModifyMultiply&quot;" />
+    <MESSAGE value="add &quot;Fib&quot;" />
+    <MESSAGE value="add &quot;Encode_Decode&quot;" />
+    <MESSAGE value="add &quot;HasUniqueChars&quot;" />
+    <MESSAGE value="add &quot;Triangular&quot;" />
+    <MESSAGE value="add &quot;GetFizzBuzzArray&quot;" />
+    <MESSAGE value="add &quot;GetPositions&quot;" />
+    <MESSAGE value="add &quot;Spoonerize&quot;" />
+    <MESSAGE value="add &quot;IsLeapYear&quot;" />
+    <MESSAGE value="add &quot;Cats&quot;" />
+    <MESSAGE value="add &quot;NextPal&quot;" />
     <MESSAGE value="add &quot;Solution&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add &quot;Solution&quot;" />
+    <MESSAGE value="add &quot;DivisibleBy&quot;" />
+    <MESSAGE value="add &quot;Between&quot;" />
+    <MESSAGE value="add &quot;ReverseWords&quot;" />
+    <MESSAGE value="add &quot;SquareOrSquareRoot&quot;" />
+    <MESSAGE value="add &quot;ExpressionsMatter&quot;" />
+    <MESSAGE value="add &quot;FixTheMeerkat&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &quot;FixTheMeerkat&quot;" />
   </component>
 </project>

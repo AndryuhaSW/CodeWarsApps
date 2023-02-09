@@ -1,8 +1,5 @@
 namespace CodeWars;
 
-using System.Linq;
-using System;
-
 public class L6_SpinWords
 {
     public static string SpinWords(string sentence)

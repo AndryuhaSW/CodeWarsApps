@@ -1,8 +1,5 @@
 ﻿namespace CodeWars;
 
-using System;
-using System.Collections.Generic;
-
 public class L6_DuplicateCount
 {
     /*public static void Main(string[] args)
