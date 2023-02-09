@@ -4,7 +4,8 @@
     <projectFile>CodeWars/CodeWars.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef701ce6-99ef-404a-bb1e-f2ec18be9b78" name="Changes" comment="">
+    <list default="true" id="ef701ce6-99ef-404a-bb1e-f2ec18be9b78" name="Changes" comment="fix &quot;SpinWords&quot;">
+      <change afterPath="$PROJECT_DIR$/CodeWars/L8_MonkeyCount.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeWars/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeWars/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +25,9 @@
         <option name="url" value="https://github.com/AndryuhaSW/CodeWarsApps.git" />
       </UrlAndAccount>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://E:/GitHub/Apps/CodeWars/CodeWars/L6_SpinWords.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -81,6 +85,7 @@
       <updated>1675972227713</updated>
       <workItem from="1675972228896" duration="1785000" />
       <workItem from="1675974052673" duration="672000" />
+      <workItem from="1675977676803" duration="465000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1675972467568</created>
@@ -131,7 +136,35 @@
       <option name="project" value="LOCAL" />
       <updated>1675974619781</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add &quot;find_it&quot;">
+      <created>1675977779371</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675977779371</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add &quot;SpinWords&quot;">
+      <created>1675977867832</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675977867832</updated>
+    </task>
+    <task id="LOCAL-00010" summary="trash">
+      <created>1675977878263</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675977878263</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fix &quot;SpinWords&quot;">
+      <created>1675977974924</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675977974924</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,7 +180,10 @@
     <MESSAGE value="delete old files" />
     <MESSAGE value="added solution &quot;DuplicateCount&quot;" />
     <MESSAGE value="add solution &quot;CountBits&quot;" />
+    <MESSAGE value="add &quot;find_it&quot;" />
+    <MESSAGE value="add &quot;SpinWords&quot;" />
     <MESSAGE value="trash" />
-    <option name="LAST_COMMIT_MESSAGE" value="trash" />
+    <MESSAGE value="fix &quot;SpinWords&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix &quot;SpinWords&quot;" />
   </component>
 </project>
