@@ -4,10 +4,7 @@
     <projectFile>CodeWars/CodeWars.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef701ce6-99ef-404a-bb1e-f2ec18be9b78" name="Changes" comment="fix &quot;SpinWords&quot;">
-      <change afterPath="$PROJECT_DIR$/CodeWars/L8_MonkeyCount.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeWars/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeWars/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ef701ce6-99ef-404a-bb1e-f2ec18be9b78" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +82,7 @@
       <updated>1675972227713</updated>
       <workItem from="1675972228896" duration="1785000" />
       <workItem from="1675974052673" duration="672000" />
-      <workItem from="1675977676803" duration="465000" />
+      <workItem from="1675977676803" duration="496000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1675972467568</created>
@@ -164,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675977974924</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add &quot;MonkeyCount&quot;">
+      <created>1675978157640</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675978157640</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +188,7 @@
     <MESSAGE value="add &quot;SpinWords&quot;" />
     <MESSAGE value="trash" />
     <MESSAGE value="fix &quot;SpinWords&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix &quot;SpinWords&quot;" />
+    <MESSAGE value="add &quot;MonkeyCount&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &quot;MonkeyCount&quot;" />
   </component>
 </project>
