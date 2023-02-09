@@ -3,13 +3,13 @@
 using System;
 using System.Collections.Generic;
 
-public class Kata
+public class L6_DuplicateCount
 {
-    public static void Main(string[] args)
+    /*public static void Main(string[] args)
     {
         Console.WriteLine(DuplicateCount("11223"));
         Console.WriteLine(DuplicateCount("122345688"));
-    }
+    }*/
     public static int DuplicateCount(string str)
     {
         Dictionary<char, int> dict = new Dictionary<char, int>();
