@@ -4,9 +4,8 @@
     <projectFile>CodeWars/CodeWars.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef701ce6-99ef-404a-bb1e-f2ec18be9b78" name="Changes" comment="added solution &quot;DuplicateCount&quot;">
-      <change afterPath="$PROJECT_DIR$/CodeWars/L6_CountBits.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/DuplicateCount.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/L6_DuplicateCount.cs" afterDir="false" />
+    <list default="true" id="ef701ce6-99ef-404a-bb1e-f2ec18be9b78" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CodeWars/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CodeWars/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675972227713</updated>
       <workItem from="1675972228896" duration="1785000" />
-      <workItem from="1675974052673" duration="322000" />
+      <workItem from="1675974052673" duration="672000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1675972467568</created>
@@ -118,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675974128235</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add solution &quot;CountBits&quot;">
+      <created>1675974590517</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675974590517</updated>
+    </task>
+    <task id="LOCAL-00007" summary="trash">
+      <created>1675974619781</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675974619781</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +146,8 @@
     <MESSAGE value="3commit" />
     <MESSAGE value="delete old files" />
     <MESSAGE value="added solution &quot;DuplicateCount&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="added solution &quot;DuplicateCount&quot;" />
+    <MESSAGE value="add solution &quot;CountBits&quot;" />
+    <MESSAGE value="trash" />
+    <option name="LAST_COMMIT_MESSAGE" value="trash" />
   </component>
 </project>
