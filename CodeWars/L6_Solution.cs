@@ -1,11 +1,13 @@
-using System;
-using System.Linq;
-
 namespace CodeWars;
 
 public class L6_Solution
 {
-    //dirst
+    /*public static void Main(string[] args)
+    {
+        Console.WriteLine(Solution(123));
+    }*/
+    
+    //first
     public static int Solution(int value)
     {
         if (value <= 0)

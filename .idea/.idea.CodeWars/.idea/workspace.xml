@@ -4,7 +4,9 @@
     <projectFile>CodeWars/CodeWars.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef701ce6-99ef-404a-bb1e-f2ec18be9b78" name="Changes" comment="" />
+    <list default="true" id="ef701ce6-99ef-404a-bb1e-f2ec18be9b78" name="Changes" comment="add &quot;Solution&quot;">
+      <change beforePath="$PROJECT_DIR$/CodeWars/L6_Solution.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CodeWars/L6_Solution.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,9 +24,6 @@
         <option name="url" value="https://github.com/AndryuhaSW/CodeWarsApps.git" />
       </UrlAndAccount>
     </option>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock://E:/GitHub/Apps/CodeWars/CodeWars/L6_SpinWords.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -83,6 +82,7 @@
       <workItem from="1675972228896" duration="1785000" />
       <workItem from="1675974052673" duration="672000" />
       <workItem from="1675977676803" duration="496000" />
+      <workItem from="1675978289005" duration="674000" />
     </task>
     <task id="LOCAL-00001" summary="FirstCommit">
       <created>1675972467568</created>
@@ -168,7 +168,42 @@
       <option name="project" value="LOCAL" />
       <updated>1675978157640</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add &quot;GetAverage&quot;">
+      <created>1675978393798</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675978393798</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add &quot;ExpandedForm&quot;">
+      <created>1675978563483</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675978563483</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add &quot;ToCamelCase&quot;">
+      <created>1675978620535</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675978620535</updated>
+    </task>
+    <task id="LOCAL-00016" summary="add &quot;FindEvenIndex&quot;">
+      <created>1675978738171</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1675978738171</updated>
+    </task>
+    <task id="LOCAL-00017" summary="add &quot;Solution&quot;">
+      <created>1675978895067</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1675978895067</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +224,11 @@
     <MESSAGE value="trash" />
     <MESSAGE value="fix &quot;SpinWords&quot;" />
     <MESSAGE value="add &quot;MonkeyCount&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="add &quot;MonkeyCount&quot;" />
+    <MESSAGE value="add &quot;GetAverage&quot;" />
+    <MESSAGE value="add &quot;ExpandedForm&quot;" />
+    <MESSAGE value="add &quot;ToCamelCase&quot;" />
+    <MESSAGE value="add &quot;FindEvenIndex&quot;" />
+    <MESSAGE value="add &quot;Solution&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="add &quot;Solution&quot;" />
   </component>
 </project>
